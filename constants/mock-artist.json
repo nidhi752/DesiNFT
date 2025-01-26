@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Khamaj - The night Raga",
+    "bgImage": "/images/placeholder1.png",
+    "image": "/images/main1.png",
+    "price": "37.7K"
+  },
+  {
+    "id": 2,
+    "name": "Ecotherapy",
+    "bgImage": "/images/placeholder2.png",
+    "image": "/images/main2.png",
+    "price": "87.1K"
+  },
+  {
+    "id": 3,
+    "name": "Yuzen Sarees",
+    "bgImage": "/images/placeholder3.png",
+    "image": "/images/main3.png",
+    "price": "79.4K "
+  },
+  {
+    "id": 4,
+    "name": "Toy Faces",
+    "bgImage": "/images/placeholder4.png",
+    "image": "/images/main4.png",
+    "price": "13.9K"
+  }
+]
